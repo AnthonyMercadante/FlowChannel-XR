@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-6552146410341658577
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 5
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SimpleWaterURP_2.2
+  m_Shader: {fileID: -6465566751694194690, guid: bb7abedaefda3684f8f9abda19c68689,
+    type: 3}
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _PeriodicNormalMap:
+        m_Texture: {fileID: 2800000, guid: ed5506dbccd3e464a80155c3af55952f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _WaveHeightMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - Vector1_0e1fe1e1e27f4e138364d78a23183f84: 1
+    - Vector1_1bc41475fe6b4ceb90bff247a397610f: 256
+    - Vector1_1ebcef78f48c4f4ea4a93be147768e6c: 1
+    - Vector1_60c46080fc154fa59a4ce64253ebd398: 1
+    - Vector1_7f3e0d4cd6a44398b399af276804b935: 1
+    - _CorrectFloaterRefraction: 0
+    - _FlipNormal: 1
+    - _NormalSpeed: 0.5
+    - _NormalStrength: 0.15
+    - _NormalTile: 0.05
+    - _QueueControl: 0
+    - _QueueOffset: 0
+    - _RefractionCoefficient: 1
+    - _Resolution: 256
+    - _UseColor: 0
+    m_Colors:
+    - _Color: {r: 1, g: 1, b: 1, a: 0}
+    - _ScreenEdge: {r: 1.057246, g: 0.59, b: 0, a: 0}
+  m_BuildTextureStacks: []
