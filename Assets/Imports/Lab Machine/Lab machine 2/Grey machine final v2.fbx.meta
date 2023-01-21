@@ -1,0 +1,465 @@
+fileFormatVersion: 2
+guid: f3860eda818eab946b859b0902145fd3
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: 1827226128182048838
+    second: Take 001
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Door_rear_box
+    second: {fileID: 2100000, guid: 943ff1e78732275498e32877c782adea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Filter_bottom
+    second: {fileID: 2100000, guid: a48857c33b507284bb2162cf2cc5d7d0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Front_water_exit_box
+    second: {fileID: 2100000, guid: 51ca062bd29a66d4091ddd4d8b4665f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gear_door
+    second: {fileID: 2100000, guid: 9e7f68810e3773943b6259eddec55e3f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Interior_cilinder
+    second: {fileID: 2100000, guid: b4554653bb06d9b489451ac4e38e94b8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: L_conectors
+    second: {fileID: 2100000, guid: f3ff6895b1ec74d4aa1d3870c65672d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: L_plates_large_box
+    second: {fileID: 2100000, guid: 7914b6b07f0eb3f49997d1c268cd7b60, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Large_box
+    second: {fileID: 2100000, guid: 763e47eb7a884d74caf0bcc1fda60dfd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Large_metalic_nest
+    second: {fileID: 2100000, guid: cd0d53c10b5e0dd48b21fd1e18381320, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pump1
+    second: {fileID: 2100000, guid: fcdee21867d97a94486daf5f2dbc34a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pump_protector
+    second: {fileID: 2100000, guid: 3b941592324e52e479fd6c307f54f771, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rail_walls
+    second: {fileID: 2100000, guid: 0fc9aba0e6ad688459bc068b3cbd9994, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rear_door_upper_cyl
+    second: {fileID: 2100000, guid: 5127984c824b7854eada1a1cc5c98cd5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: big_pump_conector
+    second: {fileID: 2100000, guid: 207ea55925ea0df48b3baf338b9065a9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: box_cyl_conector
+    second: {fileID: 2100000, guid: 5cfbcfbad62bdf34d8c67d2cdc1346c6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: box_pipe_c
+    second: {fileID: 2100000, guid: fd032f8351d8c80449ba1a2ecf7dab5f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: box_pump_support
+    second: {fileID: 2100000, guid: 1bb830276365f8e4fae8ef8735649bb5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cables
+    second: {fileID: 2100000, guid: 5a4a5165d8bf0d249bce3875d1755741, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: conecting_plate_rear_box_to_cristal
+    second: {fileID: 2100000, guid: c003788c7c69f224582adf77419333bb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cristal_base_metalic_plate
+    second: {fileID: 2100000, guid: 524ca095da7bf6046920019d505f266e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: crystal_box
+    second: {fileID: 2100000, guid: 2fec16c4d2ca2fd4292a6f6de2a1f107, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: door_support
+    second: {fileID: 2100000, guid: 8ce5a55b0fe129840955ded232d20cc9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: filter_support
+    second: {fileID: 2100000, guid: 8b54b2d60b2799348bbcc551ef9ccbf8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: filter_top
+    second: {fileID: 2100000, guid: ea83ac1940c94c243a9b985c50ae1a3f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: floor_box
+    second: {fileID: 2100000, guid: eb90c5fc14a38f041801e80292066e34, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: floor_pipe
+    second: {fileID: 2100000, guid: 8b89a2b1e6b0bb14c89f8fcf1f8a95f5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: front_large_base_support
+    second: {fileID: 2100000, guid: a24e862a01f99e244bc074b1ee962c10, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: frontal_supports_chn
+    second: {fileID: 2100000, guid: 3a1936893359f1f4e9b8a88e740d8fad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gear_rail
+    second: {fileID: 2100000, guid: 2b8f90faf5790e646a590cf84100475a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hex_bolts
+    second: {fileID: 2100000, guid: 3a7db6f1e37d23f44ae9b6aa4fcf599a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hex_t_conector
+    second: {fileID: 2100000, guid: 5141f09a1e8f2864992ab6749889cb94, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: holding_box
+    second: {fileID: 2100000, guid: c836b5cb46bbdbc46a43fd3803b7a3cb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: joint_cyl_varc
+    second: {fileID: 2100000, guid: 154f1224a96ac4e40a5eb5a60088a04d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: large_base_material
+    second: {fileID: 2100000, guid: 10d7f6e1212045a45b7de762c990536c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: large_box_cyl
+    second: {fileID: 2100000, guid: 90ed72e56f7fc524ab3eeebb00c0eba1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: large_lever
+    second: {fileID: 2100000, guid: ff8dacd3f530ae942b7bb3b7005f042d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: large_pipe_L
+    second: {fileID: 2100000, guid: 14b96e826327dfd448ed8f6d95c8eece, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: large_valve_box_holder
+    second: {fileID: 2100000, guid: 39b31a18858dcaf4b86405d9af3176b6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: middle_glass_plate
+    second: {fileID: 2100000, guid: ae61a1a99ee5b4b44b661e99639f889f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pipe_conectors
+    second: {fileID: 2100000, guid: 9236d8d19d508fc49840e2b698b1aaec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pump_base_support
+    second: {fileID: 2100000, guid: c49eba418b5718d42abdf81e8ad28968, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pump_box
+    second: {fileID: 2100000, guid: 685a6caee27139c46b958deb70952192, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pump_support
+    second: {fileID: 2100000, guid: 8d0eeb869690a68429c346da3f241d26, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rb_connector
+    second: {fileID: 2100000, guid: 64d477d92c9310242a5d83cfef8f26cc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rear_box_metalic_nest
+    second: {fileID: 2100000, guid: 00ac5088d8c8d734f9db912b27565ae6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rear_box_pipe
+    second: {fileID: 2100000, guid: 3905acfcc9099784f8b61c31e51569a8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rear_box_superior
+    second: {fileID: 2100000, guid: e36a90ba9f6a7f44981b930d9a2018d9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rear_box_supports
+    second: {fileID: 2100000, guid: 6641fa008054417468a10eb248d8b2f2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rear_door_lever_boxes
+    second: {fileID: 2100000, guid: cd658731ef1224c4bb030b60d7fd3047, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rear_of_pump
+    second: {fileID: 2100000, guid: 0137422cc83bcc74a84951936517b419, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rear_triangular_box_support
+    second: {fileID: 2100000, guid: 7826d216b75891e4ca5270b140b598b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: roll_frontal_door
+    second: {fileID: 2100000, guid: 8fe3a501a42b0e74698bfee20cb12420, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: second_pump_base_sprt
+    second: {fileID: 2100000, guid: a3e095a593c35bd438cce7e91ed761d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: side_cube_holders
+    second: {fileID: 2100000, guid: eeb63919d18dd1c4f8a738e7e52540d7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: small_door_lever
+    second: {fileID: 2100000, guid: 1ed2af2ed9b3cac41b17b5703bb8b5d1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: small_lever
+    second: {fileID: 2100000, guid: 07db99ae38d6d1743b87f69e78630d99, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: small_metalic_base
+    second: {fileID: 2100000, guid: acfa43d359b7d60458017d69997ac39b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: small_side_box
+    second: {fileID: 2100000, guid: 09bffa70163ad00419dacc15d8b714b2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: small_t_conector
+    second: {fileID: 2100000, guid: 9e0903032b98fec4c98062a7eaabfcfd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: square_bolts
+    second: {fileID: 2100000, guid: 321281fc4acfa164b9dd9c1ce907a269, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: steel_plate_2_base
+    second: {fileID: 2100000, guid: a36e376e29d3d4e4f9d4c1b28b7eebe5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: switch_box
+    second: {fileID: 2100000, guid: 6ddcb3613df696146bbeb6cef650a0e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: switch_cover
+    second: {fileID: 2100000, guid: 302b5ea179677694195be248ac0b8284, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: t_large_conector
+    second: {fileID: 2100000, guid: 8ed7112e635b2f9489bc62add2c4c602, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: t_pipe_conector_cyl
+    second: {fileID: 2100000, guid: 29876e969654a0d498b67f2e1a5a8fa9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: transparent_filter
+    second: {fileID: 2100000, guid: cec47805edf1de04db3c3c1a518225f5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: transparent_pipe
+    second: {fileID: 2100000, guid: 1dc8bfe3a41a5c74bbb171b75d84a781, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: triangular_box
+    second: {fileID: 2100000, guid: 506e8538d00bb4c4e921580f15d06826, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: upper_glass_plate_triangular
+    second: {fileID: 2100000, guid: 0524577df6336f9419ccd3ca331efdc0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: upper_rail_glass
+    second: {fileID: 2100000, guid: 8cb4ed8d43550ac4e9110ae32744d16e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wheel_holders
+    second: {fileID: 2100000, guid: 94bddb56226f5b44c8e9df8c085a7d10, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wheels
+    second: {fileID: 2100000, guid: c1c2b337e6b69c24dbf88b97a33f1de4, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
