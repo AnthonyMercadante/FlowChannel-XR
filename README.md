@@ -6,6 +6,10 @@
 ![Platform](https://img.shields.io/badge/platform-PC&nbsp;VR|Standalone%20Quest-4285F4)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
+## Demo Video
+
+[![FlowChannel‑XR demo](https://img.youtube.com/vi/Hc-zFQL8nQQ/maxresdefault.jpg)](https://youtu.be/Hc-zFQL8nQQ "Watch the demo on YouTube")
+
 ---
 
 ## Table of Contents
